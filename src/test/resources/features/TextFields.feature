@@ -1,3 +1,4 @@
+@TextFields
 Feature: TestKru Text Fields validation
 
   Scenario: Validate all text fields on TestKru page
